@@ -1,0 +1,63 @@
+# Site
+name: "KloudZone"
+title: "KloudZone"
+description: "KYC ~ Know Your Cloud, Tutorials, Reviews, Videos and Podcasts on Cloud"
+logo: 'assets/images/KloudZone-40x40.png'
+favicon: 'assets/images/KloudZone-40x40.png'
+baseurl: ""
+google_analytics: 'G-P9HLFXQ4J4'
+disqus: 'KloudZone'
+mailchimp-list: 'https://kloudzone.us5.list-manage.com/subscribe/post?u=563b34837fdd4e8373dc95674&amp;id=22b7f00a81'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  sal:
+    name: Dharmesh Vaya
+    display_name: Dharmesh Vaya
+    gravatar: c3565b3fbe3c8bd7e2a3f91e6cd70df5
+    email: kloudzone.blog@gmail.com
+    web: https://kloudzone.co.in
+    twitter: https://twitter.com/DRVaya
+    description: "Author of KloudZone | Cloud Solutions Architect | Google Developer Expert"
+  
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
