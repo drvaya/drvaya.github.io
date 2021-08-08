@@ -1,11 +1,11 @@
 # Site
 name: "KloudZone"
 title: "KloudZone"
+domain: drvaya.github.io
+url: https://drvaya.github.io
 description: "KYC ~ Know Your Cloud, Tutorials, Reviews, Videos and Podcasts on Cloud"
 logo: 'assets/images/KloudZone-40x40.png'
 favicon: 'assets/images/KloudZone-40x40.png'
-domain: drvaya.github.io
-url: https://drvaya.github.io
 baseurl: ""
 google_analytics: 'G-P9HLFXQ4J4'
 disqus: 'KloudZone'
