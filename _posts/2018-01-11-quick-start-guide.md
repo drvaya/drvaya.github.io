@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is on Cloud Run"
+title:  "This is being deployed using Cloud Run"
 author: sal
 categories: [ Podcasts, tutorial ]
 image: assets/images/12.jpg
