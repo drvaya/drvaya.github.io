@@ -15,14 +15,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  dharam:
     name: Dharmesh Vaya
     display_name: Dharmesh Vaya
     gravatar: c3565b3fbe3c8bd7e2a3f91e6cd70df5
     email: kloudzone.blog@gmail.com
     web: https://kloudzone.co.in
     twitter: https://twitter.com/DRVaya
-    description: "Author of KloudZone | Cloud Solutions Architect | Google Developer Expert"
+    description: "Author of KloudZone | Enterprise Architect | Google Developer Expert"
   
 # Plugins
 plugins:
