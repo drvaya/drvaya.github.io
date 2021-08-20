@@ -4,7 +4,7 @@ title:  "Hello World"
 author: dharam
 categories: [ tutorial ]
 tags: [yellow]
-image: assets/images/11.jpg
+image: assets/images/aboutKloudZone.png
 description: "This is a sample article on this site - KloudZone"
 featured: true
 ---
