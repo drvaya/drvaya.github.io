@@ -15,8 +15,8 @@ featured: false
 
 Explore a range of Cloud Crosswords created by numerous contributors around the globe and facilitated by Google Cloud Developer Advocate Romin Irani.
 
-[[https://cloud-crosswords.web.app/]]
+<https://cloud-crosswords.web.app/>
 
 Here is my contribution to the Cloud Crosswords, you folks might know that I am a Serverless Fan, so a fun way to learn some Serverless Cloud concepts.
 
-[https://cloud-crosswords.web.app/serverless-1.html]
+<https://cloud-crosswords.web.app/serverless-1.html>

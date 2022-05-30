@@ -16,7 +16,7 @@ featured: false
 I was privileged to be the host of this season and get a stage with industry experts to understand and demystify some concepts around the Cloud landscape.
 
 Listen to the Podcast on Aawaz.com
-[[https://aawaz.com/show/nonerdcloud]]
+<https://aawaz.com/show/nonerdcloud>
 
 Episode 01: Getting Started On Cloud With Subram Natarajan
 
